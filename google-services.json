@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "242304317230",
+    "firebase_url": "https://bertha-215018.firebaseio.com",
+    "project_id": "bertha-215018",
+    "storage_bucket": "bertha-215018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242304317230:android:995962244be437ce",
+        "android_client_info": {
+          "package_name": "app.berthaflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242304317230-g801egvfebbi05d9pnjmv3v44uouqv6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_m4znx-kXX0NNWtzhlwyk23ut8x4yU-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
